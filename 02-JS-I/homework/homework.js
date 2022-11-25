@@ -3,14 +3,13 @@
 const { stringify } = require("git-url-parse");
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = 'Henry';
+const nuevaString = 'JUAN';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 12;
 
 // Crea una variable booleana:
 const nuevoBool = true;
-
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
 
